@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ #wp_description {
+    overflow-y: scroll;
+    height: 100px;
+    resize: none;
+}
